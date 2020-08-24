@@ -1,8 +1,8 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.example.com/"
-languageCode = "en-AU"
-title = "My Awesome Title"
+baseURL = "https://lighting-tour.com/"
+languageCode = "es-ES"
+title = "Lighting Tour Escape Room"
 
 # Metadata
 [params]
@@ -17,10 +17,9 @@ title = "My Awesome Title"
 
 # Navigation section
 [params.nav]
-  mission = "Our Mission"
-  services = "Services"
-  team = "The Team"
-  contact = "Get In Touch"
+  mission = "Como funciona"
+  services = "Salas"
+  team = "FAQ"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
 
