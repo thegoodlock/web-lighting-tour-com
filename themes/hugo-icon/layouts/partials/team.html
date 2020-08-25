@@ -1,4 +1,4 @@
-<div id="fh5co-team" data-section="team">
+<div id="fh5co-team" data-section="team" id="salas">
   <div class="container equal">
     {{ with .Site.Params.team }}
     <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
@@ -8,8 +8,8 @@
     {{ range .item }}
     <div class="col-md-4 col-xs-12">
       <div class="person">
-	<img src="{{ .img | absURL }}" alt="" class="img-responsive">
-	<h3>{{ .name }}</h3>
+		<a target="_blank" href="{{ .url }}"><img src="{{ .img | absURL }}" alt="" class="img-responsive"></a>
+		<a target="_blank" href="{{ .url }}"><h3>{{ .name }}</h3></a>
 	<h4>{{ .position }}</h4>
 	<p>{{ .description | markdownify }}</p>
 	<ul class="social">

@@ -132,19 +132,20 @@ title = "Lighting Tour Escape Room"
   [[params.team.item]]
     name = "59:59 Escape"
     position = ""
+    url = "https://5959.es"
     description = "Disfruta la mezcla perfecta de tecnología y puzzles clásicos. Tres diferentes salas de escape y un hall game."
     img = "images/person2.jpg"
 
   [[params.team.item]]
     name = "Action House"
-    position = ""
+    url = "https://www.actionhouse.es/es/"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/action-house.jpg"
  
 
   [[params.team.item]]
     name = "The Darkest Room"
-    position = ""
+    url = "https://thedarkestroom.com/"
     description = "Sumérgete en una aventura multisensorial y 100% a oscuras que iluminará el resto de tus sentidos."
     img = "images/person1.jpg"
  
@@ -152,20 +153,20 @@ title = "Lighting Tour Escape Room"
 
   [[params.team.item]]
     name = "Good Lock Escape"
-    position = ""
+    url = "https://goodlock.es"
     description = "Presentamos El Secreto de Gordon, con dificultad adaptativa, donde todos podrán disfrutar del juego a su ritmo."
     img = "images/person3.jpg"
 
 
   [[params.team.item]]
     name = "Linked Minds"
-    position = ""
+    url = "http://www.linked-minds.com/"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/linked-minds.jpg"
   
   [[params.team.item]]
     name = "Tangram"
-    position = ""
+    url = "https://www.tangramescaperoom.com/"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/tangram.jpg"
 
