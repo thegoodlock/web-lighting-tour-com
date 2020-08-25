@@ -78,7 +78,7 @@ title = "Lighting Tour Escape Room"
   [[params.services.item]]
     img = "travel.svg"
     title = "Gana"
-    description = "Gana premios directos y entra el sorteo de un viaje a canarias."
+    description = "Gana premios directos y entra el sorteo de un viaje a Canarias."
 
 # Work section
 [params.work]
