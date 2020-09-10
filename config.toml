@@ -80,6 +80,36 @@ title = "Lighting Tour Escape Room"
     title = "Gana"
     description = "Gana premios directos y entra el sorteo de un viaje a Canarias."
 
+# Prices section
+[params.prizes]
+  enable = true
+  title = "¿Cuales son los precios?"
+
+  [[params.prizes.item]]
+    img = "sorpresa.svg"
+    title = "Regalo sorpresa seguro"
+
+  [[params.prizes.item]]
+    img = "viaje.svg"
+    title = "1 Viaje a Canarias + Hotel para 2 personas"
+
+  [[params.prizes.item]]
+    img = "experiencia.svg"
+    title = "1 Caja de Experiencia para dos personas"
+
+  [[params.prizes.item]]
+    img = "musical.svg"
+    title = "1 Entrada Triple y 1 Doble para 'Yo fui a EGB'"
+
+  [[params.prizes.item]]
+    img = "juego.svg"
+    title = "2 Juegos de mesa Escape Exit"
+
+  [[params.prizes.item]]
+    img = "chocita.svg"
+    title = "3 Entradas dobles para la Chocita del Loro"
+
+
 # Work section
 [params.work]
   enable = false

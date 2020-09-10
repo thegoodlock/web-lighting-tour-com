@@ -21,6 +21,10 @@
 	{{ if .Site.Params.services.enable }}
 	{{ partial "services.html" .}}
 	{{ end }}
+
+	{{ if .Site.Params.services.enable }}
+	{{ partial "prizes.html" .}}
+	{{ end }}
 	
 	{{ if .Site.Params.work.enable }}
 	{{ partial "gallery.html" .}}
