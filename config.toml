@@ -83,7 +83,7 @@ title = "Lighting Tour Escape Room"
 # Prices section
 [params.prizes]
   enable = true
-  title = "¿Cuales son los precios?"
+  title = "¿Cuáles son los premios?"
 
   [[params.prizes.item]]
     img = "sorpresa.svg"
@@ -103,7 +103,7 @@ title = "Lighting Tour Escape Room"
 
   [[params.prizes.item]]
     img = "juego.svg"
-    title = "2 Juegos de mesa Escape Exit"
+    title = "2 Juegos de escape de mesa Exit"
 
   [[params.prizes.item]]
     img = "chocita.svg"
